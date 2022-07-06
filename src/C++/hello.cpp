@@ -4,7 +4,7 @@
 #include <math.h>
 
 int main () {
-    std::cout << "Hello World!";
-    std::cout << sin(4)
+    std::cout << "Hello World!\n";
+    std::cout << sin(4);
     return 0;
 }

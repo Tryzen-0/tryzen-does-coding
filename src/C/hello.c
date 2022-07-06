@@ -2,6 +2,6 @@
 #include <math.h>
 
 int main () {
-    puts ("Hello World!\n")
+    puts ("Hello World!\n");
     return 0;
 }
